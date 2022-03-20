@@ -11,6 +11,7 @@
 		16BC5F6927E75078006C25FD /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16BC5F6827E75078006C25FD /* MainView.swift */; };
 		16BC5F6B27E75079006C25FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 16BC5F6A27E75079006C25FD /* Assets.xcassets */; };
 		16BC5F6E27E7507A006C25FD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 16BC5F6D27E7507A006C25FD /* Preview Assets.xcassets */; };
+		16BC5F7727E75505006C25FD /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16BC5F7627E75505006C25FD /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		16BC5F6827E75078006C25FD /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		16BC5F6A27E75079006C25FD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		16BC5F6D27E7507A006C25FD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		16BC5F7627E75505006C25FD /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				16BC5F6627E75078006C25FD /* GitHubTutorialApp.swift */,
 				16BC5F6827E75078006C25FD /* MainView.swift */,
+				16BC5F7627E75505006C25FD /* SecondView.swift */,
 				16BC5F6A27E75079006C25FD /* Assets.xcassets */,
 				16BC5F6C27E7507A006C25FD /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				16BC5F7727E75505006C25FD /* SecondView.swift in Sources */,
 				16BC5F6927E75078006C25FD /* MainView.swift in Sources */,
 				16BC5F6727E75078006C25FD /* GitHubTutorialApp.swift in Sources */,
 			);
